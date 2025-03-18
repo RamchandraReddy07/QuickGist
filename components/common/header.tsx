@@ -1,4 +1,4 @@
-import { FileText, Link } from "lucide-react";
+import { FileText } from "lucide-react";
 import { Button } from "../ui/button";
 import NavLink from "./nav-link";
 
